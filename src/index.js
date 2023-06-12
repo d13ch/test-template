@@ -1,3 +1,3 @@
-import './input.css';
+import '../dist/output.css';
 
 // console.log('Hello World!');
